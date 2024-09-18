@@ -553,3 +553,193 @@ video {
 [hidden] {
   display: none;
 }
+
+.sticky {
+  position: sticky;
+}
+
+.top-0 {
+  top: 0px;
+}
+
+.m-auto {
+  margin: auto;
+}
+
+.mb-\[90px\] {
+  margin-bottom: 90px;
+}
+
+.flex {
+  display: flex;
+}
+
+.h-\[593px\] {
+  height: 593px;
+}
+
+.h-\[95px\] {
+  height: 95px;
+}
+
+.h-full {
+  height: 100%;
+}
+
+.w-\[404px\] {
+  width: 404px;
+}
+
+.w-\[405px\] {
+  width: 405px;
+}
+
+.w-\[831px\] {
+  width: 831px;
+}
+
+.w-full {
+  width: 100%;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.gap-3 {
+  gap: 0.75rem;
+}
+
+.gap-\[45px\] {
+  gap: 45px;
+}
+
+.bg-blue-950 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(23 37 84 / var(--tw-bg-opacity));
+}
+
+.bg-red-600 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(220 38 38 / var(--tw-bg-opacity));
+}
+
+.pb-4 {
+  padding-bottom: 1rem;
+}
+
+.pb-8 {
+  padding-bottom: 2rem;
+}
+
+.pb-\[16px\] {
+  padding-bottom: 16px;
+}
+
+.pb-\[32px\] {
+  padding-bottom: 32px;
+}
+
+.pb-\[48px\] {
+  padding-bottom: 48px;
+}
+
+.pb-\[70px\] {
+  padding-bottom: 70px;
+}
+
+.pl-16 {
+  padding-left: 4rem;
+}
+
+.pl-\[120px\] {
+  padding-left: 120px;
+}
+
+.pr-16 {
+  padding-right: 4rem;
+}
+
+.pr-\[120px\] {
+  padding-right: 120px;
+}
+
+.pt-\[120px\] {
+  padding-top: 120px;
+}
+
+.pb-\[100px\] {
+  padding-bottom: 100px;
+}
+
+.pb-\[0px\] {
+  padding-bottom: 0px;
+}
+
+.pb-\[90px\] {
+  padding-bottom: 90px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-\[24px\] {
+  font-size: 24px;
+}
+
+.text-\[25px\] {
+  font-size: 25px;
+}
+
+.text-\[30px\] {
+  font-size: 30px;
+}
+
+.text-\[48px\] {
+  font-size: 48px;
+}
+
+.font-\[400\] {
+  font-weight: 400;
+}
+
+.font-\[500\] {
+  font-weight: 500;
+}
+
+.font-\[600\] {
+  font-weight: 600;
+}
+
+.font-\[700\] {
+  font-weight: 700;
+}
+
+.text-gray-500 {
+  --tw-text-opacity: 1;
+  color: rgb(107 114 128 / var(--tw-text-opacity));
+}
+
+.text-slate-600 {
+  --tw-text-opacity: 1;
+  color: rgb(71 85 105 / var(--tw-text-opacity));
+}
+
+.text-slate-900 {
+  --tw-text-opacity: 1;
+  color: rgb(15 23 42 / var(--tw-text-opacity));
+}
+
+.text-white {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
+}
